@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ManpreetParmar_CENG319Lab1</string>
+    <string name="headText">Démonstration des méthodes du cycle de vie</string>
+    <string name="onCreate" >onCreate () exécuté</string>
+    <string name="onStart" >onStart() exécuté</string>
+    <string name="onStop" >onStop() exécuté</string>
+    <string name="onCreateView" >onCreateView() exécuté</string>
+    <string name= "main"> Activité principale:   </string>
+    <string name= "display"> Fragment d\'affichage,  </string>
+    <string name= "activity"> Fragment d\'activité, </string>
+    <string-array name="activities">
+        <item>"AIActivité"</item>
+        <item>"VRAactivité"</item>
+    </string-array>
+</resources>
