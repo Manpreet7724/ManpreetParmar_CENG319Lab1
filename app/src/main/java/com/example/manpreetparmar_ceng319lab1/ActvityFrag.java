@@ -1,5 +1,8 @@
 package com.example.manpreetparmar_ceng319lab1;
-
+//Manpreet Parmar
+//N01302460
+//2020/09/21
+//CENG319
 
 import android.content.Intent;
 import android.os.Bundle;
