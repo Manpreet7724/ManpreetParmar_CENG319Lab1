@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         fragment = (DisplayFrag) getSupportFragmentManager().findFragmentById(R.id.disFragment);
-        status =getString(R.string.main)+"\n"+getString(R.string.onStop);
+        status =getString(R.string.main)+"\n"+getString(R.string.onCreate);
         fragment.displaymain(status);
     }
 
