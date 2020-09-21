@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ManpreetParmar_CENG319Lab1</string>
+    <string name="headText">Life Cycle Methods Demonstration</string>
+    <string name="onCreate" >onCreate() executed</string>
+    <string name="onStart" >onStart() executed</string>
+    <string name="onStop" >onStop() executed</string>
+    <string name="onCreateView" >onCreateView() executed</string>
+    <string name= "main">    Main Activity:   </string>
+    <string name= "display"> Display Fragment,  </string>
+    <string name= "activity"> Activity Fragment, </string>
+    <string-array name="activities">
+    <item>"AIActivity"</item>
+    <item>"VRActivity"</item>
+    </string-array>
+</resources>
